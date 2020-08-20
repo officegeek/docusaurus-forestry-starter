@@ -10,4 +10,5 @@ fields:
   label: title
 - type: text
   name: sidebar_label
-  label: sidebar_label
+  label: Test
+  hidden: false
